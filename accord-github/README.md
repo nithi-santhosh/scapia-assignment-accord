@@ -21,14 +21,7 @@ python3 -m http.server 8000
 
 Open http://localhost:8000 in your browser.
 
-## Upload to GitHub
 
-1. Extract this ZIP.
-2. Upload the **contents** of the `accord-github` folder into your repository. Keep `index.html` at the repository root, with `app.js` beside it and the `images` folder intact.
-3. Commit the files. Uploading only the ZIP will not make the website run.
-4. To host the site, use a static website host such as GitHub Pages with this folder as the website root. No build command is required.
-
-The `.nojekyll` file allows the folder to be served as plain static files.
 
 ## Try the prototype
 
